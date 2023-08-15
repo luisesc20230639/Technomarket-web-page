@@ -9,3 +9,10 @@ body{
 .sub{
     color: #8e6995;
 }
+
+
+#flexfooter{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
