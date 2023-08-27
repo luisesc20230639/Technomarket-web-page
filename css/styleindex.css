@@ -16,3 +16,7 @@ body{
     flex-flow: row wrap;
     justify-content: center;
 }
+
+.imagen-1{
+    margin-right: 10px;
+}
